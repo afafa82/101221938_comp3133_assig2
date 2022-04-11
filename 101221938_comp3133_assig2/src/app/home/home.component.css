@@ -1,0 +1,14 @@
+.jumbotron-content{
+background-color: rgb(255, 213, 213);
+height: calc(95vh);
+text-align: center;
+left: 0;
+margin-top: -100px;
+position: absolute;
+top: 50%;
+width: 100%;
+}
+.whitescreen {
+    display: none;
+    z-index: -1000;
+  }

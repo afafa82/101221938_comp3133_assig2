@@ -1,0 +1,8 @@
+.nav-item{
+  padding:3px;
+  margin-left: 8px;
+}
+.whitescreen {
+  display: none;
+  z-index: -1000;
+}
